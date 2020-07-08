@@ -1,65 +1,18 @@
-
 html { font-family: sans-serif; background: #eee; padding: 1rem; }
-body{ max-width: 960px;	font:15px/1.5 Arial, Helvetica,sans-serif; padding: 0px;margin: 0 auto;	background-image: url("paper.jpg"); background-color: #800080;}
 
-.container{
+body{ max-width: 960px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px; 	margin: 0 auto;
+	background-image: url("paper.jpg");  background-color: #800080; }
 
-	width:100%;
+.container{ width:100%; margin: auto; overflow: hidden;}
 
-	margin: auto;
+header{ background:#000000;	border-bottom:#448AFF 10px solid;height:120px; width:100%; 	padding-top:10px;}
 
-	overflow: hidden;
+.main-header{ text-align:center;background-color: blue;	height:100px;width:100%;margin:0px;	}
 
-}
+#brandname{ font-size:30px;	text-align:center; 	color: #fff;}
 
-
-
-header{
-
-	background:#000000;
-
-	border-bottom:#448AFF 10px solid;
-
-	height:120px;
-
-	width:100%;
-
-	padding-top:10px;
-
-}
-
-.main-header{
-			text-align:center;
-			background-color: blue;
-			height:100px;
-			width:100%;
-			margin:0px;
-		}
-#brandname{
-	float:left;
-	font-size:30px;
-	color: #fff;
-	margin: 10px;
-}
-
-header h2{
-	text-align:center;
-	color:#fff;
-
-}
-
-
-
-.btn-info {background-color: #2196F3;
-	height:40px;
-	width:100px;} /* Blue */
+header h2{ 	text-align:center; 	font-size:30px;	color:#fff;}
+.btn-info {background-color: #2196F3;	height:40px; 	width:100px;} /* Blue */
 .btn-info:hover {background: #0b7dda;}
 
-
-.resultss{
-	border-radius: 15px 50px;
-    background: #345fe4;
-    padding: 20px; 
-    width: 200px;
-    height: 150px;
-}
+.resultss{ 	border-radius: 15px 50px;  background: #345fe4;  padding: 20px;  width: 200px; height: 150px; }
