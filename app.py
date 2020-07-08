@@ -4,7 +4,7 @@ import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 #from sklearn.externals import joblib
-import sklearn.externals.joblib as extjoblib
+#import sklearn.externals.joblib as extjoblib
 import joblib
 import pickle
 
