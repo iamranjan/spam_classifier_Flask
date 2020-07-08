@@ -1,7 +1,7 @@
 html { font-family: sans-serif; background: #eee; padding: 1rem; }
 
 body{ max-width: 960px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px; 	margin: 0 auto;
-	background-image: url("paper.jpg");  background-color: #800080; }
+	background-image: url("paper.jpg");  background-color: #ff6699; }
 
 .container{ width:100%; margin: auto; overflow: hidden;}
 
