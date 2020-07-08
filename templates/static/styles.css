@@ -5,6 +5,8 @@ body{ max-width: 960px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px
 
 .container{ width:100%; margin: auto; overflow: hidden;}
 
+p {font-family: sans-serif; font-size:20px  }
+
 header{ background:#000000;	border-bottom:#448AFF 10px solid;height:120px; width:100%; 	padding-top:10px;}
 
 .main-header{ text-align:center;background-color: blue;	height:100px;width:100%;margin:0px;	}
