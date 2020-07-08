@@ -11,6 +11,5 @@ matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.5
 wordnet
-pros_cons
 reuters
 
